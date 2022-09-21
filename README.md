@@ -1,5 +1,7 @@
 # Resturant_database
 
+A database design for a resturant using sql
+
 Team project
 
 Authors:
